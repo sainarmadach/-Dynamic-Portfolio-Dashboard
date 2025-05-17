@@ -62,7 +62,9 @@ git clone https://github.com/sainarmadach/portfolio-dashboard.git
 
 
 cd portfolio-project
+
 cd project
+
 cd portfolio-dashboard
 
 
